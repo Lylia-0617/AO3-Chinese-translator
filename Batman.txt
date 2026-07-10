@@ -5,9 +5,9 @@
 //只包含一些微软翻译不能正确翻译的内容
 词条
 //人名相关
+Red Hood=红头罩
 Tim=提姆
 Hood=头罩
-"Red Hood"=红头罩
 Superboy=超级小子
 Azrael=死亡天使
 Batgirl=蝙蝠女
@@ -73,6 +73,7 @@ Insurgency=反叛军基地
 Fortress Of Soulitude=孤独堡垒
 Watchtower=瞭望塔
 Hall Of Justice=正义大厅
+dumino=多米诺面具
 
 //其他
 Mithridatism=抗毒
