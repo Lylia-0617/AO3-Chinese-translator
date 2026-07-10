@@ -14,8 +14,10 @@ Red Hood:红头罩
 Tim:提姆
 Hood:头罩
 Superboy:超级小子
+Spoiler：搅局者
+Signal：信标
+Orphan：遗孤
 Azrael:死亡天使
-Batgirl:蝙蝠女
 Clayface:泥脸
 Gotham City:哥谭市
 Harvey Dent=哈维·丹特
@@ -35,8 +37,6 @@ Killer Frost:冰霜杀手
 Black Adam:黑亚当
 Martian Manhunter:火星猎人
 Zatanna:扎塔娜
-The Vengeance:复仇使者
-The Dark Knight:黑暗骑士
 Mad Hatter:疯帽匠
 Jervis Tetch=杰维斯·泰奇
 Professor Pyg:猪面教授
@@ -60,13 +60,34 @@ Ultraman:超霸
 Super-Woman:超女王
 Aquaman:海王
 Atomica:原子女
+Rogues:无赖帮
+Ra's al Ghul=拉斯·奥·古
+Talia：塔利亚
+Aqualad：海少侠
+Cyborg：钢骨
+Beast Boy：野兽小子
+Speedy：快手
+Kid Flash：闪电小子
+Miss Martian：火星少女
+Wally West：沃利·韦斯特
+Tempest：海风暴
+Roy Harper=罗伊·哈珀
+Arsenal：军火库
+Impulse：脉冲
+Lagoon Boy：湖少侠
+Oliver Queen=奥利弗·奎恩
+Arrowette：箭旋
+Captain Cold：寒冷队长
+Witchboy：巫童
+Condiment King：酱料王
+John Constantine=约翰·康斯坦丁
 
 //常见装备与地点
 Batmobile:蝙蝠车
 Batcave:蝙蝠洞
 the Cave:蝙蝠洞
 Batarang:蝙蝠镖
-Arkham Asylum:阿卡姆 疯人院
+Arkham Asylum:阿卡姆疯人院
 Arkham:阿卡姆
 Bat-Signal:蝙蝠灯
 Blackgate Penitentiary:黑门监狱
@@ -77,7 +98,8 @@ Insurgency:反叛军基地
 Fortress Of Soulitude:孤独堡垒
 Watchtower:瞭望塔
 Hall Of Justice:正义大厅
-dumino:多米诺面具
+domino:多米诺面具
+Central City：中心城
 
 //其他
 No-killing rule:不杀原则
@@ -89,3 +111,9 @@ No Man's Land=无主之地
 
 vigilante:义警
 Mithridatism:抗毒
+costume:战衣
+rogue：恶棍
+the Pit:拉撒路池
+
+禁翻词条
+Dickwing
