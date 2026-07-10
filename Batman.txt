@@ -1,5 +1,5 @@
 蝙蝠侠
-版本号：1.0.4
+版本号：1.0.4.1
 维护者：Lylia-0617
 更新时间：2026-7-10
 //只包含一些微软翻译不能正确翻译的内容
@@ -11,10 +11,11 @@
 
 //人名相关
 Red Hood:红头罩
-Tim:提姆
+Tim Drake=提姆·德雷克
 Hood:头罩
 Superboy:超级小子
 Spoiler：搅局者
+Jason Todd=杰森·陶德
 Signal：信标
 Orphan：遗孤
 Azrael:死亡天使
@@ -64,7 +65,7 @@ Aquaman:海王
 Atomica:原子女
 Rogues:无赖帮
 Ra's al Ghul=拉斯·奥·古
-Talia：塔利亚
+Talia al Ghul=塔利亚·奥·古
 Aqualad：海少侠
 Cyborg：钢骨
 Beast Boy：野兽小子
@@ -89,6 +90,7 @@ Alfred the cat:阿尔弗雷德猫
 Timmy：提米
 Timothy:提摩西
 Edward Nigma=爱德华·尼格玛
+Flying Grayson：飞翔的格雷森
 
 //常见装备与地点
 Batmobile:蝙蝠车
@@ -122,6 +124,8 @@ Mithridatism:抗毒
 costume:战衣
 rogue：恶棍
 the Pit:拉撒路池
+Lazarus pit:拉萨路池
+Protocol：预案
 
 禁翻词条
 Dickwing
