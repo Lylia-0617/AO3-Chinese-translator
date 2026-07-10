@@ -1,5 +1,5 @@
 蝙蝠侠
-版本号：1.0.1
+版本号：1.0.2
 维护者：Lylia-0617
 更新时间：2026-7-10
 //只包含一些微软翻译不能正确翻译的内容
@@ -67,7 +67,7 @@ Batcave:蝙蝠洞
 the Cave:蝙蝠洞
 Batarang:蝙蝠镖
 Arkham Asylum:阿卡姆 疯人院
-Arkham 阿卡姆
+Arkham:阿卡姆
 Bat-Signal:蝙蝠灯
 Blackgate Penitentiary:黑门监狱
 Court of Owls:猫头鹰法庭
