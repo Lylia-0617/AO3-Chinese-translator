@@ -1,0 +1,19 @@
+词条
+//人名相关
+Tim = 提姆
+Hood = 头罩
+Red Hood = 红头罩
+Superboy = 超级小子
+Azrael = 死亡天使
+Batgirl = 蝙蝠女
+Clayface = 泥脸
+Gotham City = 哥谭市
+Harvey Dent = 哈维·丹特
+Killer Croc = 杀手鳄
+
+//常见装备与地点术语
+Batmobile = 蝙蝠车
+Batcave = 蝙蝠洞
+Batarang = 蝙蝠镖
+Arkham Asylum = 阿卡姆疯人院
+Arkham = 阿卡姆
