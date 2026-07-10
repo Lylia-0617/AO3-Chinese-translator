@@ -5,35 +5,79 @@
 //只包含一些微软翻译不能正确翻译的内容
 词条
 //人名相关
-Tim = 提姆
-Hood = 头罩
-Red Hood = 红头罩
-Superboy = 超级小子
-Azrael = 死亡天使
-Batgirl = 蝙蝠女
-Clayface = 泥脸
-Gotham City = 哥谭市
-Harvey Dent = 哈维·丹特
-Killer Croc = 杀手鳄
+Tim=提姆
+Hood=头罩
+"Red Hood"=红头罩
+Superboy=超级小子
+Azrael=死亡天使
+Batgirl=蝙蝠女
+Clayface=泥脸
+Gotham City=哥谭市
+Harvey Dent=哈维·丹特
+Killer Croc=杀手鳄
 Penguin=企鹅人
 Bane=贝恩
 Poison Ivy=毒藤女
 Mr.Freeze=急冻人
 Riddler=谜语人
 Two-Face=双面人
+The Flash=闪电侠
+Green Arrow=绿箭侠
+Aquaman=水行侠
+Solomon Grund=所罗门·格兰迪
+Deathstroke=丧钟
+Killer Frost=冰霜杀手
+Black Adam=黑亚当
+Martian Manhunter=火星猎人
+Zatanna=扎塔娜
+The Vengeance=复仇使者
+The Dark Knight=黑暗骑士
+Bats=蝙蝠
+Mad Hatter=疯帽匠
+Jervis Tetch=杰维斯·泰奇
+Professor Pyg=猪面教授
+Man-Bat=人蝠
+Deadshot=死亡射手
+Suicide Squad=自杀小队
+Secret Six=秘密六人组
+Enchantress=魅惑女巫
+Ventriloquist=腹语者
+The Batman Who Laughs=狂笑蝙蝠
+Owlman=夜枭
+Talon=利爪
+Teen Titans=少年泰坦
+Talons=利爪
+Birds of Prey=猛禽小队
+Oracle=神谕
+Dinah=黛娜
+Black Canary=黑金丝雀
+Strix=林鸮
+Crime Syndicate=犯罪辛迪加
+Ultraman=超霸
+Super-Woman=超女王
+Aquaman=海王
+Atomica=原子女
 
 //常见装备与地点术语
-Batmobile = 蝙蝠车
-Batcave = 蝙蝠洞
-Batarang = 蝙蝠镖
-Arkham Asylum = 阿卡姆疯人院
-Arkham = 阿卡姆
+Batmobile=蝙蝠车
+Batcave=蝙蝠洞
+Batarang=蝙蝠镖
+Arkham Asylum 阿卡姆疯人院
+Arkham 阿卡姆
 Bat-Signal=蝙蝠灯
 Blackgate Penitentiary=黑门监狱
 Court of Owls=猫头鹰法庭
+Metropolis=大都会
+Themyscira=天堂岛
+Insurgency=反叛军基地
+Fortress Of Soulitude=孤独堡垒
+Watchtower=瞭望塔
+Hall Of Justice=正义大厅
 
 //其他
-Mithridatism = 抗毒
+Mithridatism=抗毒
 Vigilante=义警
 No-killing rule=不杀原则
 “One Rule”=不杀原则
+Crisis on Infinite Earths=无限地球危机
+No Man's Land=无主之地
