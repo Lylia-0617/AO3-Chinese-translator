@@ -1,5 +1,5 @@
 蝙蝠侠
-版本号：1.0.2
+版本号：1.0.4
 维护者：Lylia-0617
 更新时间：2026-7-10
 //只包含一些微软翻译不能正确翻译的内容
@@ -34,6 +34,8 @@ Aquaman:水行侠
 Solomon Grund=所罗门·格兰迪
 Deathstroke:丧钟
 Killer Frost:冰霜杀手
+Hugo Strange=雨果·斯特兰奇
+Scarecrow：稻草人
 Black Adam:黑亚当
 Martian Manhunter:火星猎人
 Zatanna:扎塔娜
@@ -81,6 +83,12 @@ Captain Cold：寒冷队长
 Witchboy：巫童
 Condiment King：酱料王
 John Constantine=约翰·康斯坦丁
+Little Wing:小翅膀
+Dickhead：迪克头
+Alfred the cat:阿尔弗雷德猫
+Timmy：提米
+Timothy:提摩西
+Edward Nigma=爱德华·尼格玛
 
 //常见装备与地点
 Batmobile:蝙蝠车
@@ -117,3 +125,6 @@ the Pit:拉撒路池
 
 禁翻词条
 Dickwing
+Babs
+Ma
+Pa
