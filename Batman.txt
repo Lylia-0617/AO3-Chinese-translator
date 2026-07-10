@@ -15,7 +15,12 @@ Clayface = 泥脸
 Gotham City = 哥谭市
 Harvey Dent = 哈维·丹特
 Killer Croc = 杀手鳄
-Starfire = 星火
+Penguin=企鹅人
+Bane=贝恩
+Poison Ivy=毒藤女
+Mr.Freeze=急冻人
+Riddler=谜语人
+Two-Face=双面人
 
 //常见装备与地点术语
 Batmobile = 蝙蝠车
@@ -23,3 +28,12 @@ Batcave = 蝙蝠洞
 Batarang = 蝙蝠镖
 Arkham Asylum = 阿卡姆疯人院
 Arkham = 阿卡姆
+Bat-Signal=蝙蝠灯
+Blackgate Penitentiary=黑门监狱
+Court of Owls=猫头鹰法庭
+
+//其他
+Mithridatism = 抗毒
+Vigilante=义警
+No-killing rule=不杀原则
+“One Rule”=不杀原则
