@@ -1,5 +1,5 @@
 蝙蝠侠
-版本号：1.0.4.2
+版本号：1.0.4.3
 维护者：Lylia-0617
 更新时间：2026-7-10
 //只包含一些微软翻译不能正确翻译的内容
@@ -26,9 +26,9 @@ Killer Croc:杀手鳄
 Penguin:企鹅人
 Bane:贝恩
 Poison Ivy:毒藤女
-Mr.Freeze:急冻人
+"Mr.Freeze":急冻人
 Riddler:谜语人
-Two-Face:双面人
+"Two-Face":双面人
 The Flash:闪电侠
 Green Arrow:绿箭侠
 Aquaman:水行侠
@@ -43,13 +43,13 @@ Zatanna:扎塔娜
 Mad Hatter:疯帽匠
 Jervis Tetch=杰维斯·泰奇
 Professor Pyg:猪面教授
-Man-Bat:人蝠
+"Man-Bat":人蝠
 Deadshot:死亡射手
 Suicide Squad:自杀小队
 Secret Six:秘密六人组
 Enchantress:魅惑女巫
 Ventriloquist:腹语者
-The Batman Who Laughs:狂笑蝙蝠
+The Batman Who Laughs:狂笑之蝠
 Owlman:夜枭
 Talon:利爪
 Teen Titans:少年泰坦
@@ -60,11 +60,11 @@ Black Canary:黑金丝雀
 Strix:林鸮
 Crime Syndicate:犯罪辛迪加
 Ultraman:超霸
-Super-Woman:超女王
+"Super-Woman":超女王
 Aquaman:海王
 Atomica:原子女
 Rogues:无赖帮
-Ra's al Ghul=拉斯·奥·古
+"Ra's al Ghul"=拉斯·奥·古
 Talia al Ghul=塔利亚·奥·古
 Aqualad：海少侠
 Cyborg：钢骨
@@ -100,7 +100,7 @@ the Cave:蝙蝠洞
 Batarang:蝙蝠镖
 Arkham Asylum:阿卡姆疯人院
 Arkham:阿卡姆
-Bat-Signal:蝙蝠灯
+"Bat-Signal":蝙蝠灯
 Blackgate Penitentiary:黑门监狱
 Court of Owls:猫头鹰法庭
 Metropolis:大都会
@@ -113,9 +113,9 @@ domino:多米诺面具
 Central City：中心城
 
 //其他
-No-killing rule:不杀原则
+"No-killing rule":不杀原则
 Crisis on Infinite Earths=无限地球危机
-No Man's Land=无主之地
+"No Man's Land"=无主之地
 
 通用词条
 // 此区域不区分大小写，用于翻译通用概念
