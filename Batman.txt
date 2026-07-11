@@ -78,7 +78,7 @@ Beast Boy：野兽小子
 Speedy：快手
 Kid Flash：闪电小子
 Miss Martian：火星少女
-Wally West：沃利·韦斯特
+"Wally West"：沃利·韦斯特
 Tempest：海风暴
 Roy Harper=罗伊·哈珀
 Arsenal：军火库
