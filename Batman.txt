@@ -1,9 +1,8 @@
 蝙蝠侠
-版本号：1.0.4.3
+版本号：1.0.4.4
 维护者：Lylia-0617
-更新时间：2026-7-10
+更新时间：2026-7-11
 //只包含一些微软翻译不能正确翻译的内容
-// 编写时，请至少包含“词条”、“通用词条”、“禁翻词条”、“正则表达式”这 4 个部分中的 1 个
 // 正则表达式区域外，使用引号包裹带有标点符号的原文词条
 
 词条
@@ -17,12 +16,17 @@ Superboy:超级小子
 Spoiler：搅局者
 Jason Todd=杰森·陶德
 Signal：信标
+Duke Thomas=杜克·托马斯
+Cassandra Cain=卡珊德拉·该隐
+Cass：卡斯
+Matches Malone：火柴马龙
 Orphan：遗孤
 Azrael:死亡天使
 Clayface:泥脸
 Gotham City:哥谭市
 Harvey Dent=哈维·丹特
 Killer Croc:杀手鳄
+Croc：杀手鳄
 Penguin:企鹅人
 Bane:贝恩
 Poison Ivy:毒藤女
@@ -92,6 +96,8 @@ Timothy:提摩西
 Edward Nigma=爱德华·尼格玛
 Flying Grayson：飞翔的格雷森
 David Cain=大卫·该隐
+Shiva:西瓦
+
 
 //常见装备与地点
 Batmobile:蝙蝠车
@@ -111,6 +117,7 @@ Watchtower:瞭望塔
 Hall Of Justice:正义大厅
 domino:多米诺面具
 Central City：中心城
+Blüdhaven：布鲁德海文
 
 //其他
 "No-killing rule":不杀原则
@@ -130,6 +137,8 @@ Protocol：预案
 
 禁翻词条
 Dickwing
-Babs
+Timbird
+Timbo
 Ma
 Pa
+Babs
