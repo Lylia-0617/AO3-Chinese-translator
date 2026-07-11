@@ -1,5 +1,5 @@
 蝙蝠侠
-版本号：1.0.4.4
+版本号：1.0.4.5
 维护者：Lylia-0617
 更新时间：2026-7-11
 //只包含一些微软翻译不能正确翻译的内容
@@ -10,7 +10,9 @@
 
 //人名相关
 Red Hood:红头罩
-Tim Drake=提姆·德雷克
+"Tim Drake"=提姆·德雷克
+Tim：提姆
+Alfie：阿福
 Hood:头罩
 Superboy:超级小子
 Spoiler：搅局者
@@ -97,6 +99,11 @@ Edward Nigma=爱德华·尼格玛
 Flying Grayson：飞翔的格雷森
 David Cain=大卫·该隐
 Shiva:西瓦
+Master Bruce:布鲁斯少爷
+Master Dick:迪克少爷
+Master Tim:提姆少爷
+Master Wayne:韦恩少爷
+Mister Wayne：韦恩老爷
 
 
 //常见装备与地点
@@ -118,6 +125,8 @@ Hall Of Justice:正义大厅
 domino:多米诺面具
 Central City：中心城
 Blüdhaven：布鲁德海文
+Bludhaven：布鲁德海文
+DI：德雷克工业
 
 //其他
 "No-killing rule":不杀原则
@@ -134,6 +143,8 @@ rogue：恶棍
 the Pit:拉撒路池
 Lazarus pit:拉萨路池
 Protocol：预案
+utility belt:多功能腰带
+phantom zone：幻影地带
 
 禁翻词条
 Dickwing
