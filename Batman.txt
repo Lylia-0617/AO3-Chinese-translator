@@ -1,7 +1,7 @@
 蝙蝠侠
-版本号：1.0.4.6
+版本号：1.0.5
 维护者：Lylia-0617
-更新时间：2026-7-11
+更新时间：2026-7-12
 //只包含一些微软翻译不能正确翻译的内容
 // 正则表达式区域外，使用引号包裹带有标点符号的原文词条
 
@@ -12,14 +12,14 @@
 Red Hood:红头罩
 Tim Drake:提姆·德雷克
 Tim：提姆
-Alfie：阿福
 Hood:头罩
 Superboy:超级小子
 Spoiler：搅局者
-Jason Todd=杰森·陶德
+Jason Todd：杰森·陶德
+Todd:陶德
 Signal：信标
 Duke Thomas=杜克·托马斯
-Cassandra Cain=卡珊德拉·该隐
+Cassandra：卡珊德拉
 Cass：卡斯
 Matches Malone：火柴马龙
 Orphan：遗孤
@@ -104,6 +104,23 @@ Master Dick:迪克少爷
 Master Tim:提姆少爷
 Master Wayne:韦恩少爷
 Mister Wayne：韦恩老爷
+Master Jason:杰森少爷
+Master Damian:达米安少爷
+Alfie:阿福
+Alf:阿弗
+Stagg:斯塔格
+"Superboy-Prime":至尊小超人
+Mister Mxyzptlk:捣蛋鬼
+Cobblepot：科波特
+Oswald Cobblepot：奥斯瓦尔德·科波特
+Kane：凯恩
+The Roman：罗马人
+Carmine Falcone：卡迈恩·法尔科内
+Falcone：法尔科内
+Doomsday：毁灭日
+Rann:荣恩
+Green Lantern:绿灯侠
+Green Lantern Corps:绿灯军团
 
 
 //常见装备与地点
@@ -127,6 +144,29 @@ Central City：中心城
 Blüdhaven：布鲁德海文
 Bludhaven：布鲁德海文
 DI：德雷克工业
+Blackgate：黑门监狱
+The Cauldron：锅炉区
+Robert H. Kane Memorial Bridge：罗伯特·凯恩纪念大桥
+Kane Memorial Bridge：凯恩纪念大桥
+Robbinsville：罗宾斯维尔
+River Monchant：商人河
+Queens River：昆士河
+Otisburg District：奥斯堡区
+Monarch Playing Cards：君王扑克牌厂
+OMAC Base：欧麦克基地
+Amusement Mile：游乐区
+Westward Bridge：韦斯特沃德大桥
+GCPD：哥谭警局
+BPD：布鲁德海文警局
+Trigate Bridge：三门大桥
+Vincefinkel Bridge：文斯芬克尔大桥
+Finger River：芬格河
+GBC：哥谭广播公司
+Thomas Wayne Memorial Clinic：托马斯·韦恩纪念诊所
+Iceberg Lounge：冰山会所
+JLA Watchtower:正义联盟瞭望塔
+Brother Eye:兄弟眼
+
 
 //其他
 "No-killing rule":不杀原则
@@ -145,6 +185,9 @@ Lazarus pit:拉萨路池
 Protocol：预案
 utility belt:多功能腰带
 phantom zone：幻影地带
+batchair:蝙蝠椅
+"Bat-Mite"：：蝙蝠螨
+"nite-mite"：夜翼螨
 
 禁翻词条
 Dickwing
@@ -153,3 +196,4 @@ Timbo
 Ma
 Pa
 Babs
+
