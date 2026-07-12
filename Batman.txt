@@ -121,6 +121,7 @@ Doomsday：毁灭日
 Rann:荣恩
 Green Lantern:绿灯侠
 Green Lantern Corps:绿灯军团
+Rahul Lama：拉胡尔喇嘛
 
 
 //常见装备与地点
